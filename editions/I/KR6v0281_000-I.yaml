@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0281/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 嚴壽等重修故塔記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0077.xml
+    old_id: I01n0077
+hash: sha256:56d28985946f551893a2e1da1284a10c7f2a24d1df59eea16e937e1ed757310c
