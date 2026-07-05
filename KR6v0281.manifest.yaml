@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0281_000.yaml, hash: 'sha256:56d28985946f551893a2e1da1284a10c7f2a24d1df59eea16e937e1ed757310c'}
-  - {seq: 1, filename: KR6v0281_001.yaml, hash: 'sha256:3b758d877034dbf4111afef5cc62044fd62d9ea1179cf963cec7eb195a4c765b'}
+  - {seq: 1, filename: KR6v0281_001.yaml, hash: 'sha256:a1af54fe2b1b6781ff18f7b439a4b0c5eac4ac23a15f1987cda908236728aa94'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0281_001.markers.yaml, hash: 'sha256:cec5f70afb691bf45ae3208b9263dc6eae67dbc3acdf187213fe85849ed8c11c'}
+  - {seq: 0, role: markers, filename: assets/KR6v0281_000.markers.yaml, hash: 'sha256:8fe418215947195308ff3bc651050196fb16ca0d6007a551d60b006c658af99c'}
+  - {seq: 1, role: markers, filename: assets/KR6v0281_001.markers.yaml, hash: 'sha256:a48df50206cfed8614b401fde35556438cdc0055241c9a169496142104afd25b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 嚴壽等重修故塔記
   type: juan
   level: 1
-hash: sha256:16fc1a281c6b5a8d5b08b0306916208270780be9b36371bd13809186b3b46144
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:02e8b9e312d5fc438357e24cd534a512536235e9590482f7693ba2675099e65c
