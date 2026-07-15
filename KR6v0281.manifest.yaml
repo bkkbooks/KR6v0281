@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0281/v1
 canonical_location: https://kanripo.org/bkk/KR6v0281/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 嚴壽等重修故塔記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0281_000.yaml, hash: 'sha256:56d28985946f551893a2e1da1284a10c7f2a24d1df59eea16e937e1ed757310c'}
-  - {seq: 1, filename: KR6v0281_001.yaml, hash: 'sha256:a1af54fe2b1b6781ff18f7b439a4b0c5eac4ac23a15f1987cda908236728aa94'}
+  - {seq: 1, filename: KR6v0281_001.yaml, hash: 'sha256:311d18665c747d3dfb1ab047476fa0afa3957ea8ad6a7f2dd498b79450790f6a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0281_000.markers.yaml, hash: 'sha256:8fe418215947195308ff3bc651050196fb16ca0d6007a551d60b006c658af99c'}
-  - {seq: 1, role: markers, filename: assets/KR6v0281_001.markers.yaml, hash: 'sha256:a48df50206cfed8614b401fde35556438cdc0055241c9a169496142104afd25b'}
+  - {seq: 1, role: markers, filename: assets/KR6v0281_001.markers.yaml, hash: 'sha256:e6dc0b744ce5d6c26daff1cb39550cf1c469ecc440a85cc817bd0be16ee991c0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 嚴壽等重修故塔記
   type: juan
   level: 1
-hash: sha256:02e8b9e312d5fc438357e24cd534a512536235e9590482f7693ba2675099e65c
+hash: sha256:e82e893488f59bc9d19647218cedc3b9c821c5c73c0ecbad2a9c8fee85ec38e4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
